@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         // Please write your code here.
@@ -5,7 +6,7 @@ public class Main {
 
         int[] arr = new int[10];
 
-        for(int i = 0; i<n; i++){
+        for(int i = 0; i<10; i++){
             arr[i] = sc.nextInt();
         }
 
